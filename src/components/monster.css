@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik&display=swap");
+
+.app__monster {
+    font-family: "Rubik", sans-serif;
+    text-align: center;
+    background-color: powderblue;
+    border-radius: 5px;
+    padding: 1.5em 0.75em;
+    box-shadow: 5px 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.app__monster-name {
+    font-size: 1.6rem;
+}
+.app__monster-email {
+    font-size: 1.3rem;
+}

@@ -1,0 +1,8 @@
+.app__search {
+    margin: 0 auto;
+    border: 1px #999 solid;
+    outline: none;
+    font-size: 1.4em;
+    padding: 0.5em 1em;
+    border-radius: 5px;
+}
